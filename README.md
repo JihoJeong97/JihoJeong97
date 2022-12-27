@@ -1,3 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongJiho)](https://github.com/anuraghazra/github-readme-stats)
+![JihoJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=JihoJeong97&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongJiho)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JihoJeong97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
